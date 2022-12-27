@@ -13,7 +13,10 @@ html {
 
 }
 
-
+a {
+    text-decoration: none;
+    color: white;
+}
 
 svg {
     /* height: 20px; */
